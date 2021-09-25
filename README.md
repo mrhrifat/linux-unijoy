@@ -26,7 +26,7 @@ Then type
 ```
 sudo apt install ibus-m17n m17n-db ibus-gtk 
 ```
-4. Check is Unijoy has been installed or not by type
+4. Check is **Unijoy** has been installed or not by type
 ```
 sudo dpkg -L m17n-db | grep unijoy
 ```
