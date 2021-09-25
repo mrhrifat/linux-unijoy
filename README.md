@@ -17,7 +17,7 @@ It will help any Person, who want to write Bengali Unicode in Linux OS.
 ```
 sudo apt install ibus-m17n m17n-db ibus-gtk m17n-contrib
 ```
-3. Enter root password
+3. Enter root password (root user)
 
 **Note:** If you get error for `m17n-contrib`. Example
 > package ‘m17n-contrib’ has no installation candidate, 
