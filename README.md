@@ -42,7 +42,7 @@ ibus-daemon -xdr
 
 ## Setup on Keyboard Layout
 1. Search **Settings** or follow `Show Application > Settings`
-2. Then click **Region & Language**.  There you will see `Input & Sources`
+2. Then click **Region & Language**. For Ubuntu 22.04, **Keyboard**.  There you will see `Input & Sources`. 
 3. Click the plus `+` button, below **English(US)**.
 4. Click `⋮` or **More** 
 5. Click on **Bangla**
