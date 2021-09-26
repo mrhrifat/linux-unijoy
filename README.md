@@ -30,7 +30,7 @@ sudo apt install ibus-m17n m17n-db ibus-gtk
 ```
 sudo dpkg -L m17n-db | grep unijoy
 ```
-5.  If Unijoy is installed the below message will be shown
+5.  If Unijoy is installed, the below message will be shown
 ```
 /usr/share/m17n/bn-unijoy.mim
 /usr/share/m17n/icons/bn-unijoy.png
