@@ -42,12 +42,13 @@ ibus-daemon -xdr
 
 ## Setup on Keyboard Layout
 1. Search **Settings** or follow `Show Application > Settings`
-2. Then click **Region & Language**. For Ubuntu 22.04, **Keyboard**.  There you will see `Input & Sources`. 
-3. Click the plus `+` button, below **English(US)**.
-4. Click `⋮` or **More** 
-5. Click on **Bangla**
-6. Scroll down and select `Bangla (unijoy (m17n))`
-7.  Click on right top corner `Add`
+2. Then click **Region & Language**. For Ubuntu 22.04, **Keyboard**.
+3. There you will see `Input & Sources`. 
+4. Click the plus `+` button, below **English(US)**.
+5. Click `⋮` or **More** 
+6. Click on **Bangla**
+7. Scroll down and select `Bangla (unijoy (m17n))`
+8.  Click on right top corner `Add`
 
 ## How To Use
 1. Now you can see `en` on desktop top right corner
