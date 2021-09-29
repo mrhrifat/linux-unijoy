@@ -45,7 +45,7 @@ ibus-daemon -xdr
 2. Then click **Region & Language**. For Ubuntu 22.04, **Keyboard**.
 3. There you will see `Input & Sources`. 
 4. Click the plus `+` button, below **English(US)**.
-5. Click `⋮` or **More**. For Ubuntu 22.04, **Bangladesh** && Skip option 6.
+5. Click `⋮` or **More**. For Ubuntu 22.04, **Bangladesh** && Skip option `6`.
 6. Click on **Bangla**
 7. Scroll down and select `Bangla (unijoy (m17n))`
 8.  Click on right top corner `Add`
