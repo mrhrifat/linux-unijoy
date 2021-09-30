@@ -51,7 +51,7 @@ ibus-daemon -xdr
 8.  Click on right top corner `Add`
 
 ## How To Use
-1. Now you can see `en` on desktop top right corner
+1. Now you can see `en` on desktop top right corner. If not `restart` your system.
 2. Press `super/windows + space` to change keyboard layout
 3. It will show `বা‌` at same position
 4. ‌‌‌‌‌Now you can type **Bengali** on **Linux (Ubuntu)**
