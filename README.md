@@ -15,23 +15,24 @@ Unijoy is input system (keyboard manager), setting the standard for typing Benga
 sudo apt install ibus-m17n m17n-db ibus-gtk m17n-contrib
 ```
 3. Enter root password
-4. **Note:** If you get error for `m17n-contrib`. Example
+
+**Note:** If you get error for `m17n-contrib`. Example
 > package ‘m17n-contrib’ has no installation candidate, 
 
 Then type
 ```
 sudo apt install ibus-m17n m17n-db ibus-gtk 
 ```
-5. Check is Unijoy has installed or not by type
+4. Check is Unijoy has been installed or not by type
 ```
 sudo dpkg -L m17n-db | grep unijoy
 ```
-6.  If Unijoy is installed the below message will be shown
+5.  If Unijoy is installed the below message will be shown
 ```
 /usr/share/m17n/bn-unijoy.mim
 /usr/share/m17n/icons/bn-unijoy.png
 ```
-7. Now type and **Enter** the following command. It’ll run the `ibus daemon ` to allow the Unijoy layout to appear in Keyboard settings.
+6. Now type and **Enter** the following command. It’ll run the `ibus daemon ` to allow the Unijoy layout to appear in Keyboard settings.
 ```
 ibus-daemon -xdr
 ```
