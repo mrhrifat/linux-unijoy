@@ -65,6 +65,7 @@ ibus-daemon -xdr
 1. Ubuntu 16.04 LTS (Xenial Xerus)
 2. Ubuntu 18.04 LTS (Bionic Beaver)
 3. Ubuntu 20.04 LTS (Focal Fossa)
+4. Ubuntu 22.04 LTS (Jammy Jellyfish)
 
 
 
