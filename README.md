@@ -70,8 +70,8 @@ ibus-daemon -xdr
 
 
 ## How To Contribute
-I will be open to any contribution. If you have any idea, please let me know. I will be happy to help you.
-1. Fork this repository
+If you want to contribute, you can follow this
+1. Fork this repository or you can skip
 2. Clone on your local environment with IDE.
 3. Makes your changes to code.
 4. Commit your changes.
