@@ -63,8 +63,9 @@ ibus-daemon -xdr
 
 ## Tested Ubuntu OS Version
 1. Ubuntu 16.04 LTS (Xenial Xerus)
-1. Ubuntu 18.04 LTS (Bionic Beaver)
-2. Ubuntu 20.04 LTS (Focal Fossa)
+2. Ubuntu 18.04 LTS (Bionic Beaver)
+3. Ubuntu 20.04 LTS (Focal Fossa)
+
 
 
 ## How To Contribute
